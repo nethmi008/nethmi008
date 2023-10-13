@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/1f034ebfc52e5fdcc097e7b3c6c9100e1fd606f5a99af8ea35f1d3a936bbfdfa/687474703a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Nethmi Senevirathne</h1>
 <h3 align="center">I am a driven and dedicated Software Engineering student, enthusiastically seeking opportunities to delve into diverse areas and expand my knowledge through hands-on experiences.</h3>
-<img align = "right" alt="Coding" width="400" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img align = "right" alt="Coding" width="400" src = "https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmi008&label=Profile%20views&color=0e75b6&style=flat" alt="nethmi008" /> </p>
